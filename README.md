@@ -6,7 +6,7 @@ I enjoy building backend systems with **Java & Spring**, and I work with various
 ---
 
 ## 🌱 About Me  
-- 💻 **Backend Developer** using **Java 17** & **Spring Boot**  
+- 💻 **Backend Developer** using **Java** & **Spring Boot**  
 - 🔐 Interested in **Spring Security**, **OAuth2**, **server architecture**, and **REST API design**  
 - ☁️ Hands-on experience deploying services using **AWS EC2**, **RDS**, **Nginx**, and **SSL**  
 - ⌨️ Hobby: **Custom mechanical keyboards & design**  
