@@ -27,7 +27,7 @@ I enjoy building backend systems with **Java & Spring**, and I work with various
 All of my study notes and technical documents are organized in **Notion**.  
 
 🔗 **Notion Workspace:**  
-https://workable-supply-621.notion.site/Backend-Developer-Portfolio-2ac1a59f11b88015aac3c13646de36b1?pvs=74  
+https://seolkey.notion.site/Backend-Developer-Portfolio-2ac1a59f11b88015aac3c13646de36b1?pvs=74
 
 ---
 
